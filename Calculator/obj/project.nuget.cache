@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3heYzAtqQghjt6/99zsCI/+WinPigOlu7bTsFZJ6kano0FYxqQe4CnbY3oHH5qeTt5GCr18x+bm+aYyWzJJAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jligh\\Documents\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jligh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
